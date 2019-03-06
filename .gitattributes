@@ -1,2 +1,3 @@
-*.kicad_pcb linguist-language=KiCad Layout
-*.brd linguist-language=Eagle
+*.kicad_pcb linguist-detectable=true
+*.brd linguist-detectable=true
+*.pro linguist-detectable=false
